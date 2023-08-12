@@ -1,8 +1,18 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+# React Native AI Application
+
+This is a React Native application that uses ChatGPT and DALL-E to create a voice assistant and an image generator. You can ask ChatGPT any question and get an answer, or use DALL-E to generate images from text prompts.
+
+## Features
+
+1. Voice assistant: You can use your voice to ask ChatGPT any question and get a spoken answer. You can also use voice commands to control the app, such as switching between screens or changing settings.
+2. Image generator: You can use DALL-E to generate images from text prompts. You can enter any description and get four images that match it. You can also edit or vary the images by using different modifiers or masks.
+3. Cross-platform: The app works on both iOS and Android devices, thanks to React Native.
+
 # Getting Started
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+> **Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
 ## Step 1: Start the Metro Server
 
